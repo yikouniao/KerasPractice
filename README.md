@@ -1,5 +1,5 @@
 # KerasPractice
-Try Keras and DL.
+The practice of Keras and DL.
 
 ## Firstly
 I'm starting to learn Deep Learning and seeing if it is useful for my research on MOT.
@@ -20,5 +20,5 @@ CNN has done a very good job in classifying MNIST dataset.
 Keras also take it as an example in its Github repository.
 Let's re-write this task as the first try of CNN.
 
-Test loss: 0.02846, test accuracy: 0.9904, quite excellent.
+`Test loss: 0.02846`, `test accuracy: 0.9904`, quite excellent.
 
