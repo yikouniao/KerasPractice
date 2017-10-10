@@ -1,15 +1,6 @@
 # KerasPractice
 The practice of Keras and DL.
 
-## Firstly
-I'm starting to learn Deep Learning and seeing if it is useful for my research on MOT.
-It's really exciting that I finally take the next step forward.
-The future is anticipated. Learning is a bitter but happy thing.
-As time goes by, maybe what I write in this repository can be more and more interesting,
-challenging as well as useful.
-
-OK, that's it. Let's begin.
-
 ## MNIST Classification
 In `./mnist_classification/mnist_classification.py`.
 
@@ -22,3 +13,7 @@ Let's re-write this task as the first try of CNN.
 
 `Test loss: 0.02846`, `test accuracy: 0.9904`, quite excellent.
 
+## MNIST VAE
+In `./mnist_vae/mnist_vae.py`.
+
+Variational AutoEncoder on MNIST.

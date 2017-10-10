@@ -26,6 +26,7 @@ y_train = keras.utils.to_categorical(y_train, class_num)
 y_test = keras.utils.to_categorical(y_test, class_num)
 
 # the nn model
+# not channels-first
 inputs = Input(shape=(img_rows, img_cols, 1))
 x = Conv2D(filters=32, kernel_size=(3, 3), strides=(1, 1), padding='valid',
            data_format='channels_last', activation='relu')(inputs)
