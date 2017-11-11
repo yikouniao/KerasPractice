@@ -17,3 +17,6 @@ Let's re-write this task as the first try of CNN.
 In `./mnist_vae/mnist_vae.py`.
 
 Variational AutoEncoder on MNIST.
+
+## Person Re-Identification
+No time to do the practice any more. It's time to exploit neural network for person tracking.
