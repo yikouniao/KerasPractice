@@ -1,4 +1,8 @@
-# mnist classification by cnn
+'''mnist classification by cnn
+
+# Reference
+https://github.com/fchollet/keras
+'''
 
 import keras
 from keras.layers import Input, Conv2D, MaxPool2D, Dropout, Flatten, Dense
